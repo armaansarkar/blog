@@ -1,0 +1,20 @@
+title: My Blog
+description: A minimal blog
+author: Armaan
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Minima theme settings
+minima:
+  skin: auto  # auto switches between light/dark based on system preference
+
+# Permalink structure
+permalink: /:title/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
