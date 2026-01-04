@@ -3,12 +3,7 @@ description: personal blog
 author: Armaan
 
 # Build settings
-theme: minima
 markdown: kramdown
-
-# Navigation - only show About
-header_pages:
-  - about.md
 
 # Show future posts (timezone issues)
 future: true
