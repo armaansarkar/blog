@@ -3,11 +3,11 @@ description: A minimal blog
 author: Armaan
 
 # Build settings
-theme: minima
+remote_theme: poole/lanyon
 markdown: kramdown
 
-minima:
-  skin: auto
+plugins:
+  - jekyll-remote-theme
 
 # Permalink structure
 permalink: /:title/
