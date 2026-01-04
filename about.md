@@ -3,6 +3,10 @@ layout: default
 permalink: /about/
 ---
 
-CTO at [Medallion](https://medallion.co).
+<div style="text-align: center;">
+
+CTO at [Medallion](https://medallion.co)
 
 [LinkedIn](https://www.linkedin.com/in/armaansarkar/) / [GitHub](https://github.com/armaansarkar)
+
+</div>
