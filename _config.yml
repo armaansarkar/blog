@@ -3,7 +3,7 @@ description: A minimal blog
 author: Armaan
 
 # Build settings
-remote_theme: poole/poole
+remote_theme: chesterhow/tale
 markdown: kramdown
 
 plugins:
