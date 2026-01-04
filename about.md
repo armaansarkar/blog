@@ -3,7 +3,7 @@ layout: default
 permalink: /about/
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center;" markdown="1">
 
 CTO at [Medallion](https://medallion.co)
 

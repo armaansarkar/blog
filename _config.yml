@@ -13,6 +13,9 @@ plugins:
 header_pages:
   - about.md
 
+# Show future posts (timezone issues)
+future: true
+
 # Permalink structure
 permalink: /:title/
 
