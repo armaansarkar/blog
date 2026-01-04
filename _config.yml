@@ -3,11 +3,8 @@ description: personal blog
 author: Armaan
 
 # Build settings
-remote_theme: chesterhow/tale
+theme: minima
 markdown: kramdown
-
-plugins:
-  - jekyll-remote-theme
 
 # Navigation - only show About
 header_pages:
