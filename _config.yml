@@ -9,10 +9,9 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-# Navigation (remove tags)
-navigation:
-  - title: About
-    url: /about/
+# Navigation - only show About
+header_pages:
+  - about.md
 
 # Permalink structure
 permalink: /:title/
