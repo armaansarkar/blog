@@ -1,6 +1,8 @@
 ---
 layout: page
+title: About
 permalink: /about/
+slug: about
 ---
 
 <div style="text-align: center;" markdown="1">

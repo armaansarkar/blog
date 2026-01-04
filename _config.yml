@@ -1,17 +1,31 @@
-title: armaan
-description: personal blog
-author: Armaan
+# Site settings
+title_left: "ar"
+title_right: "maan"
+description: "personal blog"
+url: https://armaansarkar.github.io
+baseurl: "/blog"
 
 # Build settings
+permalink: /:title/
 markdown: kramdown
 
-# Show future posts (timezone issues)
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+# Author settings
+author:
+  name: "Armaan"
+
+# Show future posts
 future: true
 
-# Permalink structure
-permalink: /:title/
+# navbar pages
+navbar:
+  - slug: about
+    title: About
 
-# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
