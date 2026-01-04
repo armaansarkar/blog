@@ -3,11 +3,11 @@ description: A minimal blog
 author: Armaan
 
 # Build settings
-remote_theme: heiswayi/thinkspace
+theme: minima
 markdown: kramdown
 
-plugins:
-  - jekyll-remote-theme
+minima:
+  skin: auto
 
 # Permalink structure
 permalink: /:title/
