@@ -1,6 +1,6 @@
 # Site settings
-title_left: "ar"
-title_right: "maan"
+title_left: "armaan"
+title_right: "sarkar"
 description: "personal blog"
 url: https://armaansarkar.github.io
 baseurl: "/blog"
