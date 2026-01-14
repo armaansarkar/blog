@@ -2,8 +2,8 @@
 title_left: "armaan"
 title_right: "sarkar"
 description: "personal blog"
-url: https://armaansarkar.github.io
-baseurl: "/blog"
+url: https://armaan.dev
+baseurl: ""
 
 # Build settings
 permalink: /:title/
